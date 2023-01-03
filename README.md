@@ -9,7 +9,7 @@
    
    <div align="center">
       <em>📣 Recuerda lo que necesites contactame por <a href="https://www.linkedin.com/in/luiscerasanjuan/">Linkedin</a> | <b>
-   Email: lcerasanjuan@gmail.com 
+         <a href="">Email: lcerasanjuan@gmail.com </a> 
    </b></em>
    </div>
 
