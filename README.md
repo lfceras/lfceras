@@ -9,5 +9,5 @@
    
    <em>📣 Recuerda lo que necesites contactame por <a href="https://www.linkedin.com/in/luiscerasanjuan/">Linkedin</a> | Email: lcerasanjuan@gmail.com</em>
    
-   <h3>hola</h3>
+   <h3>🛠️ Herramientas manejadas:</h3>
 
